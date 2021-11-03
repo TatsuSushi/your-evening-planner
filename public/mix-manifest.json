@@ -1,0 +1,23 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/welcome.js": "/js/welcome.js",
+    "/js/my-dashboard.js": "/js/my-dashboard.js",
+    "/js/make-event.js": "/js/make-event.js",
+    "/js/create-poll.js": "/js/create-poll.js",
+    "/js/my-planner.js": "/js/my-planner.js",
+    "/js/friend-list.js": "/js/friend-list.js",
+    "/js/Email.js": "/js/Email.js",
+    "/js/invitation-accepted.js": "/js/invitation-accepted.js",
+    "/js/invitation-declined.js": "/js/invitation-declined.js",
+    "/css/app.css": "/css/app.css",
+    "/css/my-planner.css": "/css/my-planner.css",
+    "/css/make-event.css": "/css/make-event.css",
+    "/css/home.css": "/css/home.css",
+    "/css/welcome.css": "/css/welcome.css",
+    "/css/base.css": "/css/base.css",
+    "/css/invitation-declined.css": "/css/invitation-declined.css",
+    "/css/invitation-accepted.css": "/css/invitation-accepted.css",
+    "/css/friend-list.css": "/css/friend-list.css",
+    "/css/TableBase.css": "/css/TableBase.css",
+    "/css/create-poll.css": "/css/create-poll.css"
+}

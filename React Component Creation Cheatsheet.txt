@@ -1,0 +1,9 @@
+To create an React app with Laravel:
+1) Go to resources> js
+2) create pages or components
+3) link components to pages
+4) render with getElementById in pages
+5) Create a blade.php file and add html tags with relevant ID and script src
+6) Create route in web.php file
+
+Can add css by importing them in js files

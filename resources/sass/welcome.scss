@@ -1,0 +1,25 @@
+@use 'base';
+
+body{
+    background: url(../../public/images/scenery.jpeg) no-repeat;
+    height: 1000px;
+    background-position: center;
+
+}
+
+h1{
+    font-family: Garamond, serif;
+    font-size: 45px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1,p {
+    color: burlywood;
+}
+
+#container{
+    text-align: center;
+};

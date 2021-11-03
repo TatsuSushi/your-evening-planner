@@ -1,0 +1,7 @@
+@use "~bootstrap/scss/bootstrap";
+
+$primary: grey;
+
+.app {
+    background: $primary;
+}

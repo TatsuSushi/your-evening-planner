@@ -1,0 +1,13 @@
+@use 'base';
+
+h2{
+    color: rgb(255, 153, 255);
+}
+
+#body{
+    text-align: center;
+    border: 5px double mediumslateblue;
+    width: 50%;
+    margin-left: 25%;
+    padding: 5px;
+}

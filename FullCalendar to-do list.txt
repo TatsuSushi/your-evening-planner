@@ -1,0 +1,4 @@
+FullCalendar.io
+Things to do:
+1) After inserting new activity in calendar, when clicked on activity,
+   open modal to show information of that activity, have close and delete button at modal footer.

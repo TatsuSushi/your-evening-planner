@@ -1,0 +1,22 @@
+@use 'base';
+
+#add-friend-button{
+    width: max-content;
+}
+
+#add-friend-button{
+    margin: 0 10%;
+}
+
+#modal-container{
+    width: 70%;
+}
+
+.my-modal .modal-content{
+    background-color: beige;
+}
+
+.titles{
+    text-align: center;
+    margin-bottom: 15px;
+};

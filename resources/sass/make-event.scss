@@ -1,0 +1,63 @@
+@use 'base';
+
+#radio-label{
+    margin-right:20px;
+};
+
+button{
+    margin:10px;
+};
+
+form{
+    width:80%;
+};
+
+table{
+    max-width: 80%;
+};
+#add-friend-button,#remove-button{
+    margin:0px;
+};
+
+#overview-form{
+    border: 1px #41464b solid;
+};
+
+#overview-th, #overview-thead{
+    display:block;
+};
+
+#overview-thead{
+  float:left;
+};
+
+#overview-tbody{
+    float:right;
+}
+
+#overview-section{
+    margin-bottom: 2%;
+};
+
+.show{
+    display:block;
+};
+
+.hide{
+    display:none;
+};
+
+.create-event-form{
+    width:50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    border: 3px dashed rgb(255, 26, 98);
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(255, 204, 220);
+};
+
+.titles{
+    text-align: center;
+    margin-bottom: 15px;
+};

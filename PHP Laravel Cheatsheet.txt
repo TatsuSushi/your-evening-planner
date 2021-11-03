@@ -1,0 +1,5 @@
+1) Create controller via CLI
+2) Create functions in the controller
+3) Add route in web.php
+
+Connect to Phpmyadmin, connect with xampp to mysql and Apache
