@@ -3,6 +3,7 @@ This is a Laravel project called Your Evening Planner (YEP).
 
 This project has front-end developed with React and Laravel for back-end.
 
+Video Demo: https://youtu.be/fuzsIxdR-VI
 ### React Component Creation Cheatsheet
 To create a React app with Laravel:
 1) Go to resources> js
